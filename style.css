@@ -1,0 +1,69 @@
+/* Resetando algumas propriedades padrões */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilo para o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+/* Estilo para o cabeçalho */
+header {
+    background-color: #ffcc00;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    font-size: 2.5em;
+}
+
+/* Estilo para as seções de receitas */
+section.receita {
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section.receita h2 {
+    color: #333;
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+section.receita h3 {
+    color: #444;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+ul li {
+    margin-bottom: 8px;
+}
+
+ol {
+    padding-left: 20px;
+}
+
+footer {
+    text-align: center;
+    font-size: 1em;
+    color: #777;
+    margin-top: 30px;
+}
