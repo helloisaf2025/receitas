@@ -37,13 +37,13 @@ section.receita {
 }
 
 section.receita h2 {
-    color: #333;
+    color: #f377d8;
     font-size: 2em;
     margin-bottom: 10px;
 }
 
 section.receita h3 {
-    color: #444;
+    color: #f872db;
     font-size: 1.5em;
     margin-bottom: 10px;
 }
